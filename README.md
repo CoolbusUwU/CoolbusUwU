@@ -15,7 +15,6 @@
   <img align="center" alt="https://github.com/CoolbusUwU" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="https://github.com/CoolbusUwU" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-original-wordmark.svg">
   <img align="center" alt="https://github.com/CoolbusUwU" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-plain.svg">
-  <img align="center" alt="https://github.com/CoolbusUwU" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
   <img align="right" alt="https://github.com/CoolbusUwU" src="https://cdn.discordapp.com/attachments/753466762560929862/879579056457252914/marcy_2.png">
 </div>  
     
